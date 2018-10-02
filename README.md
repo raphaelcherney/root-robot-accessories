@@ -1,6 +1,6 @@
 # Root Robot Accessories
 
-[Root](https://rootrobotics.com/) is a toy robot that teaches the basics of coding to kids of all ages and skill levels. While Root can do a lot out of the box with its many sensors and outputs, we want to enable you to expand Root's capabilities further with your own accessories or attachments! Here we will share some useful information and materials to help you design and build your Root-based creations using a 3D printer or other tools you may have around. We look forward to seeing what you create!
+[Root](https://rootrobotics.com/) is a toy robot that teaches the basics of coding to kids of all ages and skill levels. While Root can do a lot out of the box with its many sensors and outputs, we want to enable you to expand Root's capabilities even further with your own accessories! Here we will share some useful information and materials to help you design and build your Root-based creations using a 3D printer or other tools you may have around. We look forward to seeing what you create!
 
 ![Root Drawing](images/root-drawing.jpg)
 
