@@ -12,8 +12,8 @@ Root has ten small magnets underneath the top surface to help with attaching acc
 
 ## License
 
-Root Robot Accessories are licensed under a Creative Commons Attribution 4.0 International License.
+Root Robot Accessories are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
-You should have received a [copy of the license](LICENSE.txt) along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>
+You should have received a [copy of the license](LICENSE.txt) along with this work. If not, see <https://creativecommons.org/licenses/by-nc/4.0/>
 
-[![CCBY40](images/CCBY40-88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CCBYNC40](images/CCBYNC40-88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
