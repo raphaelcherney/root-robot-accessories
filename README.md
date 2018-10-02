@@ -6,7 +6,7 @@
 
 ## Magnetic Attachment Points
 
-Root has 10 small magnets underneath the top surface to help with attaching accessories. These are located in a 32mm grid as shown in the image below.
+Root has 10 small magnets underneath the top surface to help with attaching accessories. These are in a 32mm grid with the North pole of the magnet facing up.
 
 ![Top Magnet Positions](images/root-top-magnets.png)
 
